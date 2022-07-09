@@ -9,8 +9,8 @@
 ## Summary.
 ### By removing loop lines of codes, the speed of the process was much faster. As you can see from the screenshots below, both 2017 and 2018 speed times increased dramatically.
 
-![This is an image] https://github.com/ramon0101alonso/stock-analysis/blob/main/VBA_Challenge2017.png
-![This is an image]
+![This is an image] (https://github.com/ramon0101alonso/stock-analysis/blob/main/VBA_Challenge2017.png)
+![This is an image] (https://github.com/ramon0101alonso/stock-analysis/blob/main/VBA_Challenge_2018.png)
 
 
 
